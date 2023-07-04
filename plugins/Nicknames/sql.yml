@@ -1,0 +1,7 @@
+url: 'localhost'
+user: 'nicknames'
+password: 'iE0vxIkXVlCe9Ue4'
+database: 'semivanilla_nicknames'
+port: 3306
+driver-class: 'com.superminecraftservers.nicknames.relocate.mysql.jdbc.Driver'
+table: 'nicknames'

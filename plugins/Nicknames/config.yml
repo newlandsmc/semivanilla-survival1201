@@ -1,0 +1,6 @@
+storage-provider: "SQLStorageProvider" # Can be SQLStorageProvider
+
+allowed-regex: '(\w|\d|_|#(\w|\d){6}){3,32}' # Java style regex (PCRE) empty = allow all
+
+cache:
+  enabled: true

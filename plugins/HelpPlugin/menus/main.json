@@ -1,0 +1,112 @@
+{
+  "title": "Help Menu",
+  "rows": 3,
+  "fill": {
+    "enabled": true,
+    "useDefault": true
+  },
+  "items": [
+    {
+      "slot": 10,
+      "material": "ENCHANTED_BOOK",
+      "name": "<red>Help",
+      "lore": [
+        "<white>Tutorials, list of commands,",
+        "<white>and userful links.",
+        "",
+        "<gray>Click to open book.</gray>"
+      ],
+      "actions": [
+        {
+          "type": "book",
+          "book": "help"
+        }
+      ]
+    },
+    {
+      "slot": 12,
+      "material": "CAMPFIRE",
+      "name": "<gold>Website",
+      "lore": [
+        "<white>Bookmark our website for quick",
+        "<white>access to everything in this GUI!",
+        "",
+        "<gray>Click to get link.</gray>"
+      ],
+      "actions": [
+        {
+          "type": "message",
+          "key": "website"
+        }
+      ]
+    },
+    {
+      "slot": 13,
+      "material": "PAPER",
+      "name": "<yellow>Rules",
+      "lore": [
+        "<white>Read the rules before you play!",
+        "<white>(Be: Careful, kind, and fair!)",
+        "",
+        "<gray>Click to get link.</gray>"
+      ],
+      "actions": [
+        {
+          "type": "message",
+          "key": "rules"
+        }
+      ]
+    },
+    {
+      "slot": 14,
+      "material": "EMERALD",
+      "name": "<green>Store",
+      "lore": [
+        "<white>Donate to help us share the",
+        "<white>adventure for years to come!",
+        "",
+        "<gray>Click to get link.</gray>"
+      ],
+      "actions": [
+        {
+          "type": "message",
+          "key": "store"
+        }
+      ]
+    },
+    {
+      "slot": 15,
+      "material": "NETHER_STAR",
+      "name": "<aqua>Vote",
+      "lore": [
+        "<white>Vote every day to support the",
+        "<white>server! Thank you!",
+        "",
+        "<gray>Click to get link.</gray>"
+      ],
+      "actions": [
+        {
+          "type": "message",
+          "key": "vote"
+        }
+      ]
+    },
+    {
+      "slot": 16,
+      "material": "AMETHYST_SHARD",
+      "name": "<light_purple>Discord",
+      "lore": [
+        "<white>Join the community!",
+        "<white>Welcome to SemiVanilla!",
+        "",
+        "<gray>Click to get link.</gray>"
+      ],
+      "actions": [
+        {
+          "type": "message",
+          "key": "discord"
+        }
+      ]
+    }
+  ]
+}
