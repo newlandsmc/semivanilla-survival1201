@@ -28110,3 +28110,281 @@ Potion Effects: [FAST_DIGGING:(299t-x1), SPEED:(299t-x1)]
 ---------------------------------------------------------------------------
 
 
+--------------[ P3nguinMinecraft was punished for Scaffold (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: -13812.427492234137
+ - Y: 72.5
+ - Z: -11172.822122306847
+
+Information:
+ - UUID: 8028ae0c-5b9a-4d62-a38a-01695e8af712
+ - Keep Alive Ping: 57
+ - Transaction Ping: 91
+ - Server TPS: 20
+ - Sensitivity: 133
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 3.5 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 2785
+ - Since Riptide Ticks: 2593
+ - Flying Delay: 55
+ - Since Velocity Ticks: 70
+ - Since Firework Ticks: 57
+ - Ticks Existed: 2685
+ - Since Vehicle Ticks: 2493
+ - Since Liquid Ticks: 2493
+ - Queued Transactions: 0
+ - Joined: 394 seconds ago
+
+All Violations:
+ - Scaffold (Type C) [VL: 5] (Sprinting while bridging.)
+
+Blocks Nearby: [AIR, AIR, AIR, STONE_BRICK_SLAB, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE_BRICK_SLAB, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ P3nguinMinecraft was punished for Scaffold (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: -13802.637455369259
+ - Y: 72.5
+ - Z: -11162.134537082566
+
+Information:
+ - UUID: 8028ae0c-5b9a-4d62-a38a-01695e8af712
+ - Keep Alive Ping: 0
+ - Transaction Ping: 77
+ - Server TPS: 20
+ - Sensitivity: 133
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 12.3 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 246
+ - Since Riptide Ticks: 338
+ - Flying Delay: 4
+ - Since Velocity Ticks: 246
+ - Since Firework Ticks: 338
+ - Ticks Existed: 146
+ - Since Vehicle Ticks: 238
+ - Since Liquid Ticks: 238
+ - Queued Transactions: 1
+ - Joined: 8 seconds ago
+
+All Violations:
+ - Scaffold (Type C) [VL: 5] (Sprinting while bridging.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE_BRICK_SLAB, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE_BRICK_SLAB, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ P3nguinMinecraft was punished for Scaffold (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: -13817.376974482659
+ - Y: 72.5
+ - Z: -11167.7261278049
+
+Information:
+ - UUID: 8028ae0c-5b9a-4d62-a38a-01695e8af712
+ - Keep Alive Ping: 28
+ - Transaction Ping: 99
+ - Server TPS: 20
+ - Sensitivity: 133
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 30.1 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 602
+ - Since Riptide Ticks: 669
+ - Flying Delay: 50
+ - Since Velocity Ticks: 602
+ - Since Firework Ticks: 669
+ - Ticks Existed: 502
+ - Since Vehicle Ticks: 569
+ - Since Liquid Ticks: 569
+ - Queued Transactions: 0
+ - Joined: 32 seconds ago
+
+All Violations:
+ - Scaffold (Type C) [VL: 5] (Sprinting while bridging.)
+
+Blocks Nearby: [AIR, AIR, AIR, STONE_BRICK_SLAB, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE_BRICK_SLAB, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STONE_BRICK_SLAB, STONE_BRICK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ P3nguinMinecraft was punished for Bad Packets (Type C) ]--------------
+
+Location:
+ - World: world
+ - X: -13859.536712120736
+ - Y: 44.0
+ - Z: -11409.500361741115
+
+Information:
+ - UUID: 8028ae0c-5b9a-4d62-a38a-01695e8af712
+ - Keep Alive Ping: 50
+ - Transaction Ping: 41
+ - Server TPS: 20
+ - Sensitivity: -33
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 4.45 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 3593
+ - Since Riptide Ticks: 18754
+ - Flying Delay: 51
+ - Since Velocity Ticks: 89
+ - Since Firework Ticks: 395
+ - Ticks Existed: 24894
+ - Since Vehicle Ticks: 18654
+ - Since Liquid Ticks: 0
+ - Queued Transactions: 0
+ - Joined: 2307 seconds ago
+
+All Violations:
+ - Baritone (Type A) [VL: 2] (Checks for Baritone like rotations.)
+ - Bad Packets (Type C) [VL: 1] (Impossible pitch.)
+
+Blocks Nearby: [AIR, AIR, ANDESITE, AIR, WATER, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, ANDESITE, ANDESITE, WATER, AIR, ANDESITE, AIR, AIR, AIR, AIR, AIR, AIR, ANDESITE, ANDESITE, ANDESITE, AIR, ANDESITE, ANDESITE, AIR, STONE, STONE, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [HUNGER:329t-x0]
+---------------------------------------------------------------------------
+
+
+--------------[ willwetddog93 was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -11403.525791549273
+ - Y: -5.0
+ - Z: 13519.699999988079
+
+Information:
+ - UUID: 6cc75644-68b7-4092-904f-a2284224cee8
+ - Keep Alive Ping: 43
+ - Transaction Ping: 43
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 50.25 seconds ago
+
+Total Violations: 7
+ - Combat Violations: 4
+ - Movement Violations: 3
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 2583
+ - Since Riptide Ticks: 1912
+ - Flying Delay: 52
+ - Since Velocity Ticks: 1005
+ - Since Firework Ticks: 1912
+ - Ticks Existed: 2483
+ - Since Vehicle Ticks: 1812
+ - Since Liquid Ticks: 443
+ - Queued Transactions: 1
+ - Joined: 189 seconds ago
+
+All Violations:
+ - Kill Aura (Type A) [VL: 4] (Post UseEntity packets.)
+ - Motion (Type A) [VL: 3] (Repeated vertical motions.)
+
+Blocks Nearby: [DEEPSLATE, DEEPSLATE, COBBLESTONE, DEEPSLATE, DEEPSLATE, COBBLESTONE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, COBBLESTONE, DEEPSLATE, AIR, COBBLESTONE, DEEPSLATE, AIR, DEEPSLATE, DEEPSLATE, AIR, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, DEEPSLATE, AIR, AIR, AIR]
+Entities Nearby: [CraftSpider]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ willwetddog93 was punished for Kill Aura (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: -11404.680432716446
+ - Y: -8.0
+ - Z: 13521.952901899282
+
+Information:
+ - UUID: 6cc75644-68b7-4092-904f-a2284224cee8
+ - Keep Alive Ping: 11
+ - Transaction Ping: 42
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20
+ - Last Damage: 1.85 seconds ago
+
+Total Violations: 4
+ - Combat Violations: 4
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 381
+ - Since Riptide Ticks: 351
+ - Flying Delay: 50
+ - Since Velocity Ticks: 37
+ - Since Firework Ticks: 351
+ - Ticks Existed: 281
+ - Since Vehicle Ticks: 251
+ - Since Liquid Ticks: 251
+ - Queued Transactions: 0
+ - Joined: 20 seconds ago
+
+All Violations:
+ - Kill Aura (Type A) [VL: 4] (Post UseEntity packets.)
+
+Blocks Nearby: [MOSSY_COBBLESTONE, MOSSY_COBBLESTONE, MOSSY_COBBLESTONE, COBBLESTONE, CAVE_AIR, CAVE_AIR, COBBLESTONE, CAVE_AIR, CAVE_AIR, COBBLESTONE, CAVE_AIR, CAVE_AIR, MOSSY_COBBLESTONE, MOSSY_COBBLESTONE, MOSSY_COBBLESTONE, COBBLESTONE, CAVE_AIR, CAVE_AIR, COBBLESTONE, CAVE_AIR, CAVE_AIR, COBBLESTONE, CAVE_AIR, CAVE_AIR, MOSSY_COBBLESTONE, COBBLESTONE, MOSSY_COBBLESTONE, COBBLESTONE, COBBLESTONE, COBBLESTONE, AIR, COBBLESTONE, COBBLESTONE, AIR, AIR, COBBLESTONE]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

@@ -157,6 +157,7 @@ GriefPrevention:
   CreaturesTrampleCrops: true
   RabbitsEatCrops: true
   HardModeZombiesBreakDoors: false
+  MobProjectilesChangeBlocks: false
   Database:
     URL: jdbc:mysql://localhost:3306/semivanilla_gpdata2
     UserName: griefprevention

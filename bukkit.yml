@@ -27,7 +27,7 @@ settings:
   minimum-api: none
 spawn-limits:
   axolotls: 5
-  monsters: 50
+  monsters: 55
   animals: 10
   water-animals: 5
   water-ambient: 10
