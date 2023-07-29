@@ -1,0 +1,40 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "sudokou",
+      "uniqueId": "244a663c-bc0a-465e-8697-0c00ca7c5906"
+    },
+    "time": 1690556365888,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/HhejNO0Pqy"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "sudokou",
+      "uniqueId": "244a663c-bc0a-465e-8697-0c00ca7c5906"
+    },
+    "time": 1690555694705,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/2eIt62U1Ln"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Rcon"
+    },
+    "time": 1690552067499,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/IFDYghY9p2"
+    }
+  }
+]

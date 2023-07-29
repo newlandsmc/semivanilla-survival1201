@@ -10,7 +10,9 @@
 # Example filtered sentence: You are an asshole.  Will become: You are an donutshole.
 # Default filters by Jabelpeeps
 filters:
-- thisisanexamplefilter,thisisanexamplefilter
+- <3,❤
+- \b(a+n+a+l+|a+n+u+s+|c+o+c+k+|c+u+n+t+|s+e+x+|w+a+n+k+|c+u+m+)|(s+e+x+|w+a+n+k+|c+u+m+)\b|n+(a+|i+|1+)?(g|@)(g|@)+(a+|e+|3+)?r+|\b(n+(a+|i+|1+)?(g|@)(a+|e+|3+)?r+)|\b(n+(i+|1+)(g|@)+a+)|f+(a|4)+g+|t+w+(a|4)+t+|s+l+u+t+|n+a+z+i+|s+l+a+v+e+|t+r+a+nn+y+|p+o+r+n+|b+l+o+w+( )?j+o+b+|c+(o|0)(o|0)+n+|c+l+i+t+(s+)?|b+a+l+s+a+c+k+|b+i+(a+)?t+c+h+|b+(o|0)+n+e+r+|c+l+i+t+o+r+i+(d+e+)?s+|b+u+t+p+l+u+g+|d+i+l+d+o+|f+e+l+a+t+(e+|i+o+)|f+e+l+c+h+i+n+g+|f+u+c+k+|f+u+d+g+e+( )?p+a+c+k+e+r+|j+i+zz+|l+a+b+i+a+|m+a+s+t+e+r+b+a+t+e+|r+(e|3)+t+(a|4)+r+d+|p+e+n+i+s+|p+u+s+y+|s+c+r+o+t+u+m+|s+m+e+g+m+a+|v+a+g+i+n+a+|w+h+o+r+e+,<blocked>
+- (a|4)b(o|0)rt(i|1)(o|0)n|r+(a+|4)(p(e|3)+\b|pp+(3|e)(3|e)+|p+(i|1)st),<sensitive>
 
 # command without the /
 blockablecommands:
@@ -262,7 +264,7 @@ channels:
     color: white
     chatcolor: white
     mutable: false
-    filter: false
+    filter: true
     autojoin: true
     default: true
     distance: 0
@@ -277,7 +279,7 @@ channels:
     color: yellow
     chatcolor: yellow
     mutable: false
-    filter: false
+    filter: true
     autojoin: true
     default: false
     distance: 0
@@ -292,7 +294,7 @@ channels:
     color: gold
     chatcolor: gold
     mutable: false
-    filter: false
+    filter: true
     autojoin: true
     default: false
     distance: 256
