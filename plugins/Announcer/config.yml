@@ -79,6 +79,6 @@ messages:
     - '<strikethrough>                                                                 <reset>'
     - ''
     - 'Unclaimed land can be griefed! Make sure you claim'
-    - 'your land. <click:open_url:https://semivanilla.com/features/claiming><gradient:#fafa6e:#a14040>https://semivanilla.com/features/claiming</gradient></click>'
+    - 'your land. <click:open_url:https://semivanilla.com/claiming><gradient:#fafa6e:#a14040>https://semivanilla.com/claiming</gradient></click>'
     - ''
     - '<strikethrough>                                                                 <reset>'

@@ -21,7 +21,7 @@ Auto Respawn: false
 # Ignore No Damage Hits -> Ignore hits from snowballs, eggs, fishing rod and others
 # World Exclusions -> List of worlds where PvPManager will have no effect
 General:
-  # Changes messages language, options are - EN | BG | DE | ES | FR | HR | IT | PL | pt_BR | RU | TR | zh_TW | ZH
+  # Changes messages language, options are - EN | BG | DE | ES | FR | HR | IT | JA | PL | pt_BR | RU | TR | zh_TW | ZH
   Locale: en
   Default PvP: true
   Extra Protection: true
@@ -74,6 +74,8 @@ Disable:
   GameMode: false
   Disguise: false
   GodMode: false
+  # Makes player fall down if they're tagged while elytra gliding
+  Elytra: false
   Invisibility:
     Remove from Attacker: false
     Remove from Defender: false
@@ -304,9 +306,9 @@ Plugin Hooks:
     - 'lobby'
 
 Database:
-  # Database type, supported databases: SQLite or MySQL
+  # Database type, supported databases: SQLite or MySQL or MariaDB
   Type: SQLite
-  # Only fill this section if using MySQL
+  # Only fill this section if using MySQL or MariaDB
   MySQL:
     Host: 127.0.0.1
     Port: 3306
@@ -321,4 +323,4 @@ Update Check:
 Debug Mode: false
 
 # Informs PvPManager if the config is updated, do not touch it unless you want to reset the config
-Config Version: 94
+Config Version: 95

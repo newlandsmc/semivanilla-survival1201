@@ -11,8 +11,8 @@
 #
 regions:
     spawn:
-        min: {x: -250, y: -64, z: -250}
-        max: {x: 250, y: 319, z: 250}
+        min: {x: -250, y: 0, z: -250}
+        max: {x: 250, y: 255, z: 250}
         members: {}
         flags: {greeting: '§eYou have entered a server claim, land claiming is NOT
                 allowed here.', passthrough: allow}

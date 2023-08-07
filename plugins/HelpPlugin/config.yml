@@ -7,8 +7,6 @@ commands:
     - helpmenu
     - info
   books:
-    discord:
-      - discord
     map:
       - map
       - maps
@@ -29,7 +27,7 @@ book-author: 'HelpPlugin'
 
 links:
   store: 'https://semivanilla.tebex.io'
-  map: 'https://semivanilla.com/features/map'
+  map: 'https://semivanilla.com/map'
   vote: 'https://semivanilla.com/vote'
   website: 'https://semivanilla.com'
   discord: 'https://discord.gg/zVYbPcVzny'
@@ -84,8 +82,8 @@ book:
       - '<bold>Commands:</bold>'
       - ' - /claim'
       - ''
-      - '    <click:open_url:https://semivanilla.com/features/claiming><gradient:#f1b54e:#a14040><bold>More help on</bold></gradient></click>'
-      - '     <click:open_url:https://semivanilla.com/features/claiming><gradient:#f1b54e:#a14040><bold>our website!</bold></gradient></click>'
+      - '    <click:open_url:https://semivanilla.com/claiming><gradient:#f1b54e:#a14040><bold>More help on</bold></gradient></click>'
+      - '     <click:open_url:https://semivanilla.com/claiming><gradient:#f1b54e:#a14040><bold>our website!</bold></gradient></click>'
     4:
       - ''
       - ''
