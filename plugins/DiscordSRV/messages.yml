@@ -205,7 +205,7 @@ MinecraftPlayerJoinMessage:
     Color: "#00ff00"
     Author:
       ImageUrl: "%embedavatarurl%"
-      Name: "%username% joined the server"
+      Name: "%username% connected!"
       Url: ""
     ThumbnailUrl: ""
     Title:
@@ -234,7 +234,7 @@ MinecraftPlayerFirstJoinMessage:
     Color: "#ffd700"
     Author:
       ImageUrl: "%embedavatarurl%"
-      Name: "%username% joined the server for the first time"
+      Name: "%username% has joined for the first time!"
       Url: ""
     ThumbnailUrl: ""
     Title:
@@ -263,7 +263,7 @@ MinecraftPlayerLeaveMessage:
     Color: "#ff0000"
     Author:
       ImageUrl: "%embedavatarurl%"
-      Name: "%username% left the server"
+      Name: "%username% disconnected!"
       Url: ""
     ThumbnailUrl: ""
     Title:
@@ -282,7 +282,7 @@ MinecraftPlayerLeaveMessage:
 # %world%:        the name of the world the user died in
 #
 MinecraftPlayerDeathMessage:
-  Enabled: true
+  Enabled: false
   Webhook:
     Enable: false
     AvatarUrl: "%botavatarurl%"
@@ -312,7 +312,7 @@ MinecraftPlayerDeathMessage:
 # %world%:       the name of the world the user is in
 #
 MinecraftPlayerAchievementMessage:
-  Enabled: true
+  Enabled: false
   Webhook:
     Enable: false
     AvatarUrl: "%botavatarurl%"

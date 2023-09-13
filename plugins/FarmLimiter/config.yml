@@ -4,10 +4,10 @@
 # Online documentation: https://filoghost.me/docs/farm-limiter
 
 # How often to check mob farms in seconds.
-check-interval: 180
+check-interval: 60
 
 broadcast:
-  enable: true
+  enable: false
   message: '&6[FarmLimiter]&e Removed {amount} entities.'
   # How many entities should be removed at minimum to broadcast the message.
   minimum: 1

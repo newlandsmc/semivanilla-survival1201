@@ -12,7 +12,26 @@ rename-claim:
     - ''
     - '<dark_gray>Click to rename.'
 claim:
-  name: '<gray>Name: {name}'
+  name: '<green>Change Icon'
   lore:
     - '<gray>Owner: {owner}'
     - '<gray>Coords: {x}, {y}, {z}'
+    - ''
+    - '<dark_gray>Click to change icon.'
+toggle-public:
+  public:
+    type: 'OAK_DOOR'
+    name: '<green>Toggle Publicity'
+    lore:
+      - '<gray>Current setting: <green>public'
+      - ''
+      - '<dark_gray>Click to toggle to private.'
+  private:
+    type: 'OAK_DOOR'
+    name: '<green>Toggle Publicity'
+    lore:
+      - <gray>Current setting: <red>private'
+      - 'cost:<gray>Cost: <green>${cost}' # If you have set a cost to make a claim public, this line will show the cost. (will be hidden otherwise)
+      - ''
+      - '<dark_gray>Click to toggle to public.'
+

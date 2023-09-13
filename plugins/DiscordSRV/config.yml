@@ -27,7 +27,7 @@ BotToken: "MTA4ODYyNDIzMjA2MzMwMzczMA.G7rq7a.hoRT7GxUcEO52IgceBrxhbrnde018Y44ME4
 #
 # The first part of channel pairs is not the Discord channel name!
 # Run "/discord reload" after changing this option to apply
-Channels: {"global": "1137812232277852221", "join": "", "leave": "", "status": ""}
+Channels: {"global": "1137812232277852221"}
 
 # Console channel numerical ID (NOT NAME), leave blank to disable the console channel all together
 DiscordConsoleChannelId: ""

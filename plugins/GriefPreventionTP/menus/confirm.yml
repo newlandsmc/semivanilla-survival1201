@@ -7,11 +7,13 @@ confirm:
   type: 'GREEN_STAINED_GLASS_PANE'
   name: '<green>Yes'
   lore:
+    - ''
     - '<dark_gray>Click to confirm.'
 cancel:
   type: 'RED_STAINED_GLASS_PANE'
   name: '<red>No'
   lore:
+    - ''
     - '<dark_gray>Click to cancel.'
 info:
   type: 'PAPER'

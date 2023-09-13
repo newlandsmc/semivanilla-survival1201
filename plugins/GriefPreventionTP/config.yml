@@ -28,6 +28,73 @@ teleport:
     seconds: 5
 max-claim-name-length: 32
 enable-public: true
+icons: # https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - head: # https://mineskin.org/
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQ4ZDdkMWUwM2UxYWYxNDViMDEyNWFiODQxMjg1NjcyYjQyMTI2NWRhMmFiOTE1MDE1ZjkwNTg0MzhiYTJkOCJ9fX0='
+      name: 'Red'
+      id: 'red_dye_cube'
+  - head: # https://mineskin.org/
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTI5MTYyMmM1MTA0ZjFjYzk0YTJiNGQzM2FkN2IyYzliMjE1ZmY5NDk1MDFlOGMyNTBjZmQ1YTg2MWU2YjkwNyJ9fX0='
+      name: 'Orange Cube'
+      id: 'orange_dye_cube'
+  - head: # https://mineskin.org/
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmMxODNmMzYwMWY2NzI5M2E1MWUyNTc3ZGJlYTA1YTQ2MDJlZmE0MzNjYzM1NGU2M2ZjZjdmYmUwMjY0ODZiYyJ9fX0='
+      name: 'Yellow Cube'
+      id: 'yellow_dye_cube'
+  - head: # https://mineskin.org/
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWMwMWY2Nzk2ZWI2M2QwZThhNzU5MjgxZDAzN2Y3YjM4NDMwOTBmOWE0NTZhNzRmNzg2ZDA0OTA2NWM5MTRjNyJ9fX0='
+      name: 'Lime Cube'
+      id: 'lime_dye_cube'
+  - head: # https://mineskin.org/
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmZlYzNkMjVhZTBkMTQ3YzM0MmM0NTM3MGUwZTQzMzAwYTRlNDhhNWI0M2Y5YmI4NThiYWJmZjc1NjE0NGRhYyJ9fX0='
+      name: 'Green Cube'
+      id: 'green_dye_cube'
+  - head: # https://mineskin.org/
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQwMjEyNjVkMDVmM2UzNTI0YzkwYTgwMGQ0ZDE3ZTY2ZjkzZGFiY2ZiZmFhMTNkYmJiNWIxNTczMGVlMmRkMyJ9fX0='
+      name: 'Cyan Cube'
+      id: 'cyan_dye_cube'
+  - head: # https://mineskin.org/
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDU0ODc4OWI5NjhjNzBlYzlkMWRlMjcyZDBiYjkzYTcwMTM0ZjJjMGU2MGFjYjc1ZThkNDU1YTE2NTBmMzk3NyJ9fX0='
+      name: 'Light Blue Cube'
+      id: 'light_blue_dye_cube'
+  - head: # https://mineskin.org/
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjIyMWVlMDAwZDc1Y2M0MGZmZTlhZTY5NDg0MTI5ZjIxZTIxYzliM2I0NGFkZWIyMDNjYTRmNmJiMGU4MzI1ZSJ9fX0='
+      name: 'Blue Cube'
+      id: 'blue_dye_cube'
+  - head: # https://mineskin.org/
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmY5N2I0YmY1MWNlMmIyMmQ2ZWI1ZWNjMTU0YTdhYjM5M2Y2YTRiMGIxNDJjODg0NjE1MzE3ZDAxOWQ4OTYzOSJ9fX0='
+      name: 'Purple Cube'
+      id: 'purple_dye_cube'
+  - head: # https://mineskin.org/
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmM4YjgxMmRjZDdiYmFiNGUyMzc5ZWQzNzk2MDI0YjNkYzgzYzEzYmRmZmUxZTFhMWNmZDQxYWI5ZjRmYjYzZCJ9fX0='
+      name: 'Magenta Cube'
+      id: 'magenta_dye_cube'
+  - head: # https://mineskin.org/
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMxYzYxZGM3ZjJkMDljYTIwZDc1ZTU5NDU3NzdlNWYwNmQwNjI5MzE4Y2QyNTFhZDhkNGQ5ZTgxZjAwNTE4YyJ9fX0='
+      name: 'Pink Cube'
+      id: 'pink_dye_cube'
+  - head: # https://mineskin.org/
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmIzYTk3MmZjNDkwMzZjM2RmZWMyZWEwZWNkODM5YThkY2RhZTc1ODQyMGJkNmYyMzNhZjk5ZjNhMGM2NzIwYSJ9fX0='
+      name: 'Brown Cube'
+      id: 'brown_dye_cube'
+  - head: # https://mineskin.org/
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTE5ZDY0NjEyYmE4ZDFjMDJlZTI3MGQ4NDUxOWFkMGNkNzMxNzViYzQ1ZTdkZGEzZjYzOTY4NmIyY2U2NDU5NiJ9fX0='
+      name: 'Black Cube'
+      id: 'black_dye_cube'
+  - head: # https://mineskin.org/
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjI1NTRkZGE4MGVhNjRiMThiYzM3NWI4MWNlMWVkMTkwN2ZjODFhZWE2YjFjZjNjNGY3YWQzMTQ0Mzg5ZjY0YyJ9fX0='
+      name: 'Gray Cube'
+      id: 'gray_dye_cube'
+  - head: # https://mineskin.org/
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjIzZDdlNjU1ZGViZGQ1OTFkMDk5ZDc2ZmYwMDBkNzU1NWJlNGFlMTFiMWUyNmI5YWRmMjQ0YWUwMjJiMjljOCJ9fX0='
+      name: 'Light Gray Cube'
+      id: 'light_gray_dye_cube'
+  - head: # https://mineskin.org/
+      texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTg4NGQ1ZGFiZTA3M2UyOGU2YjdlYjE2NmZmNjEyNDc5MDVjNzlmODM4YjZmNTc1MmU3YWQ0MDYwOTFlZWFmMyJ9fX0='
+      name: 'White Cube'
+      id: 'white_dye_cube'
+#  - 'GRASS_BLOCK'
+#  - 'DIRT'
 # Maximum public claims
 # set to -1 to set to unlimited
 # You can set max per (permission) group
@@ -46,21 +113,25 @@ menu:
     type: 'BARRIER'
     name: '<red>Close'
     lore:
+      - ''
       - '<dark_gray>Click to close menu'
   back-button:
     type: 'ARROW'
     name: '<green>Back'
     lore:
+      - ''
       - '<dark_gray>Click to go back'
   next-page:
     type: 'ARROW'
     name: '<green>Next Page'
     lore:
+      - ''
       - '<dark_gray>Click to go to the next page'
   previous-page:
     type: 'ARROW'
     name: '<green>Previous Page'
     lore:
+      - ''
       - '<dark_gray>Click to go to the previous page'
 search:
   cancel-messages: # If the player says this when searching, it will cancel the search

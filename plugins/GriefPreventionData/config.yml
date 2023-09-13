@@ -50,14 +50,14 @@ GriefPrevention:
     AllowTrappedInAdminClaims: true
     MaximumNumberOfClaimsPerPlayer: 100
     CreationRequiresWorldGuardBuildPermission: true
-    VillagerTradingRequiresPermission: false
+    VillagerTradingRequiresPermission: true
     CommandsRequiringAccessTrust: /sethome
     DeliverManuals: false
     ManualDeliveryDelaySeconds: 30
-    RavagersBreakBlocks: true
+    RavagersBreakBlocks: false
     FireSpreadsInClaims: false
     FireDamagesInClaims: false
-    LecternReadingRequiresAccessTrust: false
+    LecternReadingRequiresAccessTrust: true
   Spam:
     Enabled: false
     LoginCooldownSeconds: 60
@@ -110,7 +110,7 @@ GriefPrevention:
   AdminsGetWhispers: false
   AdminsGetSignNotifications: false
   VisualizationAntiCheatCompatMode: false
-  SmartBan: false
+  SmartBan: true
   Mute New Players Using Banned Words: false
   MaxPlayersPerIpAddress: -1
   SilenceBans: false
@@ -152,17 +152,17 @@ GriefPrevention:
     - GLASS_PANE
     DoorsOpenDelayInSeconds: 300
     CooldownEndInMinutes: 60
-  EndermenMoveBlocks: true
-  SilverfishBreakBlocks: true
-  CreaturesTrampleCrops: true
-  RabbitsEatCrops: true
+  EndermenMoveBlocks: false
+  SilverfishBreakBlocks: false
+  CreaturesTrampleCrops: false
+  RabbitsEatCrops: false
   HardModeZombiesBreakDoors: false
   MobProjectilesChangeBlocks: false
   Database:
     URL: jdbc:mysql://localhost:3306/semivanilla_gpdata2
     UserName: griefprevention
     Password: NYBXJw9K9PhbeZkT
-  UseBanCommand: false
+  UseBanCommand: true
   BanCommandPattern: ban %name% %reason%
   Advanced:
     fixNegativeClaimblockAmounts: true

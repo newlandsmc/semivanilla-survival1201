@@ -1,0 +1,18 @@
+# ===========================================================
+# THIS FILE WILL EVENTUALLY BE REPLACED. WITH THE V2 REWRITE.
+# ===========================================================
+
+title: 'Set Icon'
+icon:
+  name: '{name}'
+  lore:
+    select:
+      - ''
+      - '<gray>Click to select this icon.'
+    deselect:
+      - ''
+      - '<red>Click to deselect this icon'
+      - '<red>and <gray>reset<red> to default.'
+  message:
+    set: '<green>Icon set to {name}<green>.'
+    unset: '<green>Successfully unset icon.'
